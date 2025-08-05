@@ -1,0 +1,172 @@
+.parent{
+    width: 100%;
+    height:1600px;
+    background-color: white;
+}
+.top{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(246, 249, 249);
+    display: flex;
+}
+.logo{
+    width: 150px;
+    height: 80px;
+background-color: white;
+}
+.fliplogo {
+    width: 99%;
+    height: 100%;
+}
+.topside{
+    width: 300px;
+    height: 80px;
+    background-color: rgb(247, 245, 249);
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+.search{
+    width: 270px;
+    height: 50px;
+
+}
+.nav{
+    width: 1100px;
+    height: 80px;
+    background-color: rgb(243, 245, 242);
+    display: flex;
+    justify-content: space-around;
+    
+}
+.headline{
+    width: 100%;
+    height: 45px;
+    background-color: white;
+}
+.phone{
+    width: 100%;
+    height: 350px;
+    background-color: blue;
+    display: flex;
+}
+.phone1{
+    width: 80%;
+    height: 350px;
+    background-color:white;
+    display: flex;
+}
+.ad{
+    width: 20%;
+    height: 350px;
+    background-color: cadetblue;
+}
+.box{
+    width: 20%;
+    height: 100%;
+    /* background-color: chocolate; */
+}
+.one{
+    width: 100%;
+    height: 80%;
+}
+.two{
+    width: 100%;
+    height: 80%;
+}
+.three{
+    width: 100%;
+    height: 80%;
+}
+.four{
+    width: 100%;
+    height: 80%;
+}
+.five{
+    width: 95%;
+    height: 80%;
+}
+.adimg{
+    width: 100%;
+    height: 100%;
+
+}
+.home{
+    width: 100%;
+    height: 35px;
+    background-color: white;
+}
+.navtwo{
+    width: 100%;
+    height: 350px;
+    background-color: chartreuse;
+    display: flex;
+}
+.boxone{
+    width: 20%;
+    height: 100%;
+    background-color: white;
+}
+.fan{
+    width: 85%;
+    height: 75%;
+}
+.oven{
+    width: 90%;
+    height: 75%;
+}.bulb{
+    width: 88%;
+    height: 75%;
+}
+.television{
+    width: 95%;
+    height: 75%;
+}
+.switchboard{
+    width: 100%;
+    height:75%;
+}
+.mainhead{
+    cursor: pointer;
+    &:hover{
+        color: brown;
+    }
+}
+.lowone{
+    width: 100%;
+    height: 600px;
+    background-color: cadetblue;
+}
+.lowtwo{
+ width: 100%;
+ height: 300px;
+ background-color: white;
+ display: flex;
+ align-items: center;
+ justify-content: space-around;
+
+}
+.lowthree{
+ width: 100%;
+ height: 300px;
+ background-color: white;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+
+
+}
+.lowside{
+    width: 33%;
+    height: 97%;
+    background-color:white;
+}
+.lowdown{
+    width: 33%;
+    height: 97%;
+    background-color:white;
+}
+.adimg{
+    width: 100%;
+    height: 100%;
+}
